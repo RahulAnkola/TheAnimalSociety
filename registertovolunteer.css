@@ -19,7 +19,7 @@ body {
   background: url("./Pics/cow.jpg");
   background-size: cover;
   width: 60vw;
-  border-radius: 30px;
+  border-radius: 60px;
   height: 130vh;
   float: left;
 }
@@ -38,7 +38,7 @@ body {
 
 .pic2 {
   background: url("./Pics/doghand.jpg");
-  border-radius: 30px;
+  border-radius: 60px;
   background-size: cover;
   width: 60vw;
   height: 130vh;
@@ -52,5 +52,9 @@ body {
   color: rgba(255, 255, 255);
   font-size: 4em;
   font-family: "Orelega One", cursive;
- 
+}
+a:hover{
+    background: rgba(41, 107, 168, 0.6);
+    border-radius: 5px;
+    color: white;
 }

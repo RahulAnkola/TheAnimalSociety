@@ -31,3 +31,11 @@ a{
 .location,.call,.email{
     font-size: 1.5em;
 }
+body {
+    background: #212529;
+}  
+a:hover{
+    background: rgba(41, 107, 168, 0.6);
+    border-radius: 5px;
+    color: white;
+}
