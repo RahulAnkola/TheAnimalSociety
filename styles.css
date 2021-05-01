@@ -1,0 +1,13 @@
+.para{
+    font-size: 3em;
+}
+.navbar{
+    position: fixed;
+    width: 99vw;
+}
+.space{
+    height: 50px;
+}
+.navbar-brand{
+    font-family: cursive;
+}
