@@ -8,8 +8,10 @@
 .twodogs{
     background: url("./Pics/twodogs.jpg");
     background-size: contain;
-    width: 1263px;
-    height: 1100px;
+    /* width: 1263px;
+    height: 100px; */
+    width: 100vw;
+    height: 185vh;
     display: flex; 
     align-items:center;
     justify-content: center;
