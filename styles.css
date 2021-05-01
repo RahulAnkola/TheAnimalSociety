@@ -6,7 +6,19 @@
     width: 99vw;
 }
 .space{
-    height: 50px;
+    height: 60px;
+}
+.twodogs{
+    background: url("./Pics/twodogs.jpg");
+    background-size: contain;
+    width: 1263px;
+    height: 600px;
+    display: flex; 
+    align-items:center;
+    justify-content: center;
+    background-attachment: fixed; 
+    font-size: 4em;
+    font-family: 'Courgette', cursive;;
 }
 .navbar-brand{
     font-family: cursive;
